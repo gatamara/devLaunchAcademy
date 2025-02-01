@@ -1,0 +1,70 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "nombre": "Desarrollo Web con Vue.js 3",
+      "descripcion": "Aprende a crear aplicaciones web dinámicas con Vue.js 3, desde los conceptos básicos hasta la composición avanzada de componentes.",
+      "duracion": "8 semanas",
+      "fecha_inicio": "2025-02-15",
+      "temario": [
+        "Introducción a Vue.js 3",
+        "Directivas y eventos",
+        "Componentes y props",
+        "Vue Router y navegación",
+        "Gestión del estado con Pinia",
+        "Integración con APIs",
+        "Despliegue y optimización"
+      ],
+      "requisitos": ["Conocimientos básicos de HTML, CSS y JavaScript", "Familiaridad con ES6"],
+      "precio": "$189.000"
+    },
+    {
+      "id": 2,
+      "nombre": "Full Stack con Vue.js y Firebase",
+      "descripcion": "Crea aplicaciones web completas utilizando Vue.js para el frontend y Firebase para el backend, autenticación y base de datos en tiempo real.",
+      "duracion": "10 semanas",
+      "fecha_inicio": "2025-03-01",
+      "temario": [
+        "Fundamentos de Vue.js",
+        "Autenticación con Firebase",
+        "Firestore como base de datos NoSQL",
+        "Cloud Functions en Firebase",
+        "Desarrollo y despliegue de una app completa"
+      ],
+      "requisitos": ["Experiencia básica con Vue.js", "Conceptos básicos de bases de datos"],
+      "precio": "$199.000"
+    },
+    {
+      "id": 3,
+      "nombre": "Aplicaciones Móviles con Vue.js y Capacitor",
+      "descripcion": "Desarrolla aplicaciones móviles híbridas con Vue.js y Capacitor, listas para Android e iOS.",
+      "duracion": "6 semanas",
+      "fecha_inicio": "2025-02-20",
+      "temario": [
+        "Configuración de Vue con Capacitor",
+        "Acceso a funciones nativas",
+        "Almacenamiento local y base de datos",
+        "Integración con APIs externas",
+        "Publicación en Play Store y App Store"
+      ],
+      "requisitos": ["Conocimientos básicos de Vue.js", "Familiaridad con desarrollo web"],
+      "precio": "$149.000"
+    },
+    {
+      "id": 4,
+      "nombre": "Testing y Mejores Prácticas en Vue.js",
+      "descripcion": "Aprende a escribir pruebas para aplicaciones Vue.js y a implementar buenas prácticas de desarrollo.",
+      "duracion": "5 semanas",
+      "fecha_inicio": "2025-03-10",
+      "temario": [
+        "Pruebas unitarias con Jest",
+        "Pruebas de integración",
+        "Mocking y simulación de datos",
+        "Testing en Vue 3 con Vue Test Utils",
+        "CI/CD y automatización de pruebas"
+      ],
+      "requisitos": ["Experiencia previa con Vue.js", "Conocimientos básicos de testing"],
+      "precio": "$169.000"
+    }
+  ]
+}
